@@ -19,6 +19,12 @@
     "axios": "^0.27.2",
     "rxjs": "^7.5.5"
   },
+  "keywords": [
+    "slack",
+    "nestjs slack",
+    "slack notifications",
+    "slack for nest js"
+  ],
   "devDependencies": {
     "@commitlint/cli": "^17.0.2",
     "@commitlint/config-conventional": "^17.0.2",
